@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/ferion/circ/app'
+let g:netrw_dirhist_2='/home/ferion/projects/glutin2/target/debug/build/glutin-344ddc95e02d03a1'
+let g:netrw_dirhist_3='/home/ferion/projects/edit/.git'
